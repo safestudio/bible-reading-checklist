@@ -46,6 +46,7 @@ module.exports = {
   modules: [
     [
       "nuxt-i18n", {
+        baseUrl: process.env.baseUrl,
         strategy: "prefix_except_default",
         lazy: true,
         langDir: "locales/",
