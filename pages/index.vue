@@ -1,12 +1,12 @@
 <template>
   <div class="container h-100">
     <div class="row align-items-center h-100">
-      <div class="col-4 mx-auto">
+      <div class="col-sm-12 col-md-4 mx-auto">
         <div class="text-center">
           <h1 class="display-4">{{ $t('appName')}}<br/>&nbsp;<br/>&nbsp;</h1>
         </div>
       </div>
-      <div class="col-6 mx-auto">
+      <div class="col-sm-12 col-md-6 mx-auto">
         <div class="jumbotron text-center">
           <div class="nav-center my-3">
             <ul class="nav nav-pills nav-center">
