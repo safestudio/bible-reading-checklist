@@ -1,0 +1,35 @@
+{
+  "name": "bible-reading-checklist",
+  "version": "1.0.0",
+  "description": "Bible reading checklist",
+  "author": "ansidev@gmail.com",
+  "private": true,
+  "scripts": {
+    "dev": "source env.dev.sh && nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint"
+  },
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "firebase": "^5.7.2",
+    "nuxt": "^2.3.4",
+    "nuxt-i18n": "^5.4.4",
+    "prettier": "^1.15.3",
+    "store": "^2.0.12",
+    "vue-feather-icons": "^4.7.1",
+    "vue-warehouse": "^1.0.1",
+    "vuex-easy-firestore": "^1.25.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.11.1",
+    "eslint-friendly-formatter": "^4.0.1",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-vue": "^5.0.0",
+    "node-sass": "^4.9.3",
+    "sass-loader": "^7.1.0"
+  }
+}
