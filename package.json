@@ -14,18 +14,18 @@
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "firebase": "^5.7.2",
+    "firebase": "^6.3.0",
     "nuxt": "^2.3.4",
     "nuxt-i18n": "^5.4.4",
     "prettier": "^1.15.3",
     "store": "^2.0.12",
-    "vue-feather-icons": "^4.7.1",
+    "vue-feather-icons": "^5.0.0",
     "vue-warehouse": "^1.0.1",
     "vuex-easy-firestore": "^1.25.1"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
-    "eslint": "^5.11.1",
+    "eslint": "^6.0.1",
     "eslint-friendly-formatter": "^4.0.1",
     "eslint-loader": "^2.1.1",
     "eslint-plugin-vue": "^5.0.0",
