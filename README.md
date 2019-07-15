@@ -1,5 +1,7 @@
 # Bible Reading Checklist
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SafeStudio/bible-reading-checklist.svg)](https://greenkeeper.io/)
+
 > Bible reading checklist web app
 
 ## Pre-build configuration
